@@ -84,7 +84,7 @@
         <version>3.5.3</version>
         <configuration>
           <includes>
-            <include>**/CucumberTestRunner.java</include>
+            <include>**/testRunner/CucumberTestRunner.java</include>
           </includes>
         </configuration>
       </plugin>
